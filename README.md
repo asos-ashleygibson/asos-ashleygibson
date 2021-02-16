@@ -4,7 +4,7 @@
 
 #### Aurora
 
-Currently, I'm working on a Stock Reconciliation project which allows us to have greater visibility of any Stock discrepancies.
+Currently, we're working on a Stock Reconciliation project which allows us to have greater visibility of any Stock discrepancies.
 
 #### 💡 I’m currently learning...
 
