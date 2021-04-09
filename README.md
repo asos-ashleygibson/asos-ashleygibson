@@ -4,7 +4,7 @@
 
 #### Aurora
 
-Currently, we're working on a Stock Reconciliation project which allows us to have greater visibility of any Stock discrepancies.
+Currently, we're working on a tool to reroute ASN files to increase the efficiency of Stock movement between warehouses. We're also maintaining a Stock Reconciliation project which allows us to have greater visibility of any Stock discrepancies.
 
 #### 💡 I’m currently learning...
 
