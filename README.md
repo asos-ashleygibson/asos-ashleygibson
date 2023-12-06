@@ -14,6 +14,10 @@ I have a keen interest in modern architecture and leaner, cleaner API design. I'
 
 #### 📚 I'm currently reading...
 
+#### [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/)
+
+This book provides a great insight in how to become a better developer and how to operate a development team effectively, no matter what industry or technologies you're using.
+
 #### [Continuous Delivery](https://martinfowler.com/books/continuousDelivery.html "Continuous Delivery") by Jez Humble and David Farley.
 
 I love this book because it gives a detailed insight into how to create a fully working Continuous Delivery process no matter how big or small your project is.
