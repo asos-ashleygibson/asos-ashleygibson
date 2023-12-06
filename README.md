@@ -4,13 +4,13 @@
 
 #### Aurora
 
-Currently, we're working on a tool to reroute ASN files to increase the efficiency of Stock movement between warehouses. We're also maintaining a Stock Reconciliation project which allows us to have greater visibility of any Stock discrepancies.
+Currently, we're working on a global Warehouse Management System (WMS) which provides the ability to track and monitor our warehouses.
 
 #### 💡 I’m currently learning...
 
-Azure and Databases.
+Modern architecture and API design.
 
-I have a keen interest in Microsoft Azure and serverless, cloud computing. Databases are also my weak point so I'm brushing up on my SQL knowledge for creating Stored Procedures and tSQLt skills for testing.
+I have a keen interest in modern architecture and leaner, cleaner API design. I'm wrapping my dead around Domain Driven Design and Vertical Slice architecture while adopting MediatR in our APIs.
 
 #### 📚 I'm currently reading...
 
