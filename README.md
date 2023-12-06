@@ -14,7 +14,7 @@ I have a keen interest in modern architecture and leaner, cleaner API design. I'
 
 #### 📚 I'm currently reading...
 
-#### [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/)
+#### [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/) by Titus Winters, Tom Manshreck and Hyrum Wright
 
 This book provides a great insight in how to become a better developer and how to operate a development team effectively, no matter what industry or technologies you're using.
 
